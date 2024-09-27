@@ -2,6 +2,7 @@
 gifs y png de productos obtenidos del goes-16 de la nasa
 
 Esta es la estructura de los directorios:
+
 ![image](https://github.com/user-attachments/assets/f1f27e1c-3ed2-4c96-a50f-7fd5dc7cdcb3)
 
 y el link de los shapefiles empleados:
